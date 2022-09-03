@@ -1,4 +1,5 @@
 # <a href="https://njweb.solutions" target="blank"><img align="center" src="https://www.njweb.solutions/nj.png" />NJ Web Solutions</a>
+## <a href="https://blastnotifications.com" target="blank"><img align="center" src="https://blastnotifications.com/img/preview.png" />Blast Notifications</a>
 ### <a href="https://linkedin.com/in/daviddibenedetto" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a> **[LinkedIn](https://linkedin.com/in/daviddibenedetto)**
 ### Certifications
   <a href="https://www.coursera.org/account/accomplishments/certificate/YARTWTEHFU3B">Linux for Developers - Linux Foundation</a><br>
