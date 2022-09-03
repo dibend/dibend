@@ -16,7 +16,4 @@
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UQYLYTDQ29RD">DevOps on AWS Specialization - Amazon Web Services
   <a href="https://www.coursera.org/account/accomplishments/certificate/T2CQWQNPYLQ2">Foundations: Data, Data, Everywhere - Google</a>
 
-<video controls autoplay>
-  <source src="https://i.gifer.com/1DvL.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
