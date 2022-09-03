@@ -15,3 +15,8 @@
   <a href="https://www.linkedin.com/learning/certificates/97d41db7dcc1d1453664cd06f5c2d0e55ddbf4f3fff129052984c4aa8269d26b">Learning Python - LinkedIn</a><br>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UQYLYTDQ29RD">DevOps on AWS Specialization - Amazon Web Services
   <a href="https://www.coursera.org/account/accomplishments/certificate/T2CQWQNPYLQ2">Foundations: Data, Data, Everywhere - Google</a>
+
+<video controls autoplay>
+  <source src="https://i.gifer.com/1DvL.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
