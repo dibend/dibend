@@ -30,4 +30,4 @@ I'm a passionate software engineer interested in data science, artificial intell
 
 I like to mine cryptocurrencies. You can view my mining stats at <a href="https://blastmining.net">BlastMining.net</a>
 
-I like to make market data visualizations. You can see some of my Google Colab projects with data visualizations I made at <a href="https://github.com/dibend/Colab">GitHub.com/dibend/Colab</a>
+I like to make market and economic data visualizations. You can see some of my Google Colab projects with data visualizations I made at <a href="https://github.com/dibend/Colab">GitHub.com/dibend/Colab</a>
