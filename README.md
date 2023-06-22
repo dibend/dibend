@@ -16,8 +16,6 @@
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UQYLYTDQ29RD">DevOps on AWS Specialization - Amazon Web Services</a><br>
   <a href="https://www.coursera.org/account/accomplishments/certificate/T2CQWQNPYLQ2">Foundations: Data, Data, Everywhere - Google</a>
 
-![chewbacca-starwars](https://user-images.githubusercontent.com/20129616/188277093-1a8a09b3-cdde-4416-9262-bcffa06ec548.gif)
-
 # Hi There! <img src="https://user-images.githubusercontent.com/20129616/213759502-2ba7441b-e585-46cf-af1d-7a0f1283d5f4.gif" alt="waving hand" width="30" />
 
 ## Welcome to my GitHub
