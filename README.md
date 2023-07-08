@@ -24,7 +24,7 @@
 
 #### About Me
 
-I'm a passionate software engineer interested in data science, artificial intelligence, cryptocurrency, and software and harware in general.
+I'm a passionate software developer interested in data science, artificial intelligence, cryptocurrency, and software and harware in general.
 
 I like to mine cryptocurrencies. You can view my mining stats at <a href="https://blastmining.net">BlastMining.net</a>
 
