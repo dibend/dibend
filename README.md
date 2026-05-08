@@ -2,7 +2,7 @@
 
 <img width="1030" height="432" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" />
 
-<a href="https://www.github.com/sponsors/dibend"><img width="220" height="64" alt="image" src="https://github.com/user-attachments/assets/ad1cf745-192c-4d19-b649-43d4819bed06" /></a>
+<a href="https://www.github.com/sponsors/dibend"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a>
 
 Use at your own risk.
 
