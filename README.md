@@ -1,5 +1,7 @@
 # ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
 
+<a href="https://www.github.com/sponsors/dibend"><img width="220" height="64" alt="image" src="https://github.com/user-attachments/assets/ad1cf745-192c-4d19-b649-43d4819bed06" /></a>
+
 Use at your own risk.
 
 Feel free to read this software! Only run if you understand every bit.
