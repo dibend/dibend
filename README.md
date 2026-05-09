@@ -8,7 +8,7 @@ Use at your own risk.
 
 Feel free to read this software! Only run if you understand every bit.
 
-Feel free to run your own tests and open issues but use secure docker container or virtual machine.
+Feel free to run your own tests and open issues but use secure docker container, or secure virtual machine.
 
 Do your own research.
 
@@ -16,6 +16,8 @@ Do your own research.
 <a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5"><img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/0dd3aa9d-7e0c-45d4-8973-52003a63e61b" /></a>
 
 Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Feel free to fork my repos and fix my errors. Please hard fork.
 
 
 
