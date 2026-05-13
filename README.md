@@ -19,7 +19,7 @@ Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Feel free to fork my repos and fix my errors. Please hard fork and star. Please sponsor my work. Click Wookie like button. 
 
-LICENSE
+LICENSE below for all my Gits. Ignore invalid licenses in repos.
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
