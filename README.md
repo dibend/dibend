@@ -8,6 +8,8 @@ The above is a standard cybersecurity disclaimer.
 Use at your own risk.
 
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk">Proof that Yoda taught Wookies to be Jedi</a>
+<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
+
 
 Feel free to read this software! Only run if you understand every bit.
 
