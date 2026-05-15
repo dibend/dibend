@@ -7,6 +7,8 @@ The above is a standard cybersecurity disclaimer.
 
 Use at your own risk.
 
+<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk">Proof that Yoda taught Wookies to be Jedi</a>
+
 Feel free to read this software! Only run if you understand every bit.
 
 Feel free to run your own tests and open issues but use secure docker container, or secure virtual machine.
