@@ -1,4 +1,5 @@
 # ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
+The above is a standard cybersecurity disclaimer.
 
 <a href="https://www.github.com/sponsors/dibend"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
