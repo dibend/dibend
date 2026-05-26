@@ -1,14 +1,14 @@
 # ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
-The above is a standard cybersecurity disclaimer.
-<a href="https://www.youtube.com/watch?v=JpQGoI4CoEE">My Git Theme Song Must Listen on Loop While Read!</a><br>
-<a href="https://www.github.com/sponsors/dibend"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
+The above is a standard cybersecurity disclaimer.<br><br>
+<a href="https://www.youtube.com/watch?v=JpQGoI4CoEE" target="_blank">My Git Theme Song Must Listen on Loop While Read!</a><br><br>
+<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
-<a href="https://www.github.com/sponsors/dibend"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a>
+<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a>
 
 Use at your own risk.
 
-<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk">Proof that Yoda taught Wookies to be Jedi</a><br>
-<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
+<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
+<a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
 
 
 Feel free to read this software! Only run if you understand every bit.
@@ -17,8 +17,8 @@ Feel free to run your own tests and open issues but use secure docker container,
 
 Do your own research.
 
-<a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5"><h2>Funny Llama named Nemo Video</h2></a>
-<a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5"><img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/0dd3aa9d-7e0c-45d4-8973-52003a63e61b" /></a>
+<a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5" target="_blank"><h2>Funny Llama named Nemo Video</h2></a>
+<a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5" target="_blank"><img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/0dd3aa9d-7e0c-45d4-8973-52003a63e61b" /></a>
 
 Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
 
