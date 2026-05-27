@@ -1,6 +1,6 @@
 # ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
 The above is a standard cybersecurity disclaimer.<br><br>
-<a href="https://www.youtube.com/watch?v=JpQGoI4CoEE" target="_blank">My Git Theme Song Must Listen on Loop While Read!</a><br><br>
+<a href="https://www.youtube.com/watch?v=RI9hDxVDobI&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><br><br>
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a>
