@@ -3,8 +3,8 @@ The above is a standard cybersecurity disclaimer.<br><br>
 <a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><br><br>
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
-<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a>
-
+<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a><br><br>
+<a href="https://www.facebook.com/profile.php?id=61569723137755" target="_blank">Meta is bad at social media moderation, uses too many AI failed dunks.</a>
 Use at your own risk.
 
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
