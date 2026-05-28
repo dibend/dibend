@@ -2,6 +2,11 @@
 The above is a standard cybersecurity disclaimer.<br><br>
 
 ## Donate USDC on PoS Solana or sats to my wife's charity <a style="color: purple" href="https://mlkblvd.org/">MLKBLVD.org</a>
+Solana USDC
+<img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/d65c6341-ffcc-4463-8ed6-dd84b73030ef" />
+Bitcoin
+<img width="234" height="234" alt="btc" src="https://github.com/user-attachments/assets/558bbc82-68f3-4923-9183-be4b3e175ccd" />
+
 <a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><br><br>
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
