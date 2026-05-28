@@ -1,7 +1,7 @@
 # ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
 The above is a standard cybersecurity disclaimer.<br><br>
 
-## Donate USDC on PoS Solana or sats to my wife and my's non-profit <a style="color: purple" href="https://mlkblvd.org/">MLKBLVD.org</a>
+## Donate USDC on PoS Solana or sats to my wife's non-profit <a style="color: purple" href="https://mlkblvd.org/">MLKBLVD.org</a>
 <a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><br><br>
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
 
