@@ -1,7 +1,8 @@
-# ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
-The above is a standard cybersecurity disclaimer.<br><br>
-
-## Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Wife Imonie's Charity <a style="color: purple" href="https://mlkblvd.org/">MLKBLVD.org</a>
+## ⚠️ CAUTION MAY CONTAIN VULNERABILITIES OR HAVE NO SUPPORT ⚠️
+The above is a standard cybersecurity disclaimer.<br>
+<hr>
+Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Wife Imonie's Charity<br>
+# <a href="https://mlkblvd.org/">MLKBLVD.org</a>
 Solana USDC<br>
 <img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/d65c6341-ffcc-4463-8ed6-dd84b73030ef" /><br><hr>
 Bitcoin<br>
