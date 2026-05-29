@@ -6,14 +6,14 @@ Solana USDC<br>
 <img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/d65c6341-ffcc-4463-8ed6-dd84b73030ef" /><br><hr>
 Bitcoin<br>
 <img width="234" height="234" alt="btc" src="https://github.com/user-attachments/assets/558bbc82-68f3-4923-9183-be4b3e175ccd" />
-
+<hr>
 <a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><br><br>
 <a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
-
-<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a><br><br>
+<hr>
+<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a><br><br><hr>
 <a href="https://www.facebook.com/profile.php?id=61569723137755" target="_blank">Meta is bad at social media moderation, uses too many AI failed dunks.</a>
 Use at your own risk.
-
+<hr>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
 
@@ -23,14 +23,14 @@ Feel free to read this software! Only run if you understand every bit.
 Feel free to run your own tests and open issues but use secure docker container, or secure virtual machine.
 
 Do your own research.
-
+<hr>
 <a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5" target="_blank"><h2>Funny Llama named Nemo Video</h2></a>
 <a href="https://www.youtube.com/embed/8Rrt9FNo1FU?si=gy16f89sm0TE7qP5" target="_blank"><img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/0dd3aa9d-7e0c-45d4-8973-52003a63e61b" /></a>
-
+<hr>
 Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
-
-Feel free to fork my repos and fix my errors. Please hard fork and star. Please sponsor my work. Click Wookie like button. 
-
+<hr>
+Feel free to fork my repos and fix my errors. Please hard fork and star. Please sponsor my work. Click Super Wookie Jedi Like Button. 
+<hr>
 LICENSE below for all my Gits. Ignore invalid licenses in repos.
 
 GNU GENERAL PUBLIC LICENSE
