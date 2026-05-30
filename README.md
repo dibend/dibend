@@ -1,9 +1,9 @@
 Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Beautiful Wife Imonie's Charity that I manage.<br>
 # [MLKBLVD.org](https://MLKBLVD.org)<br>
-Donate USDC to MLKBVD.org USDC on Solana PoS to earn interest for other charity donations, and help people as we see fit.<br>
+Donate USDC to MLKBVD.org USDC on Solana PoS to earn interest for other charity donations, and help to people as we see fit.<br>
 <img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/78e766d8-854d-438e-8aab-df3a514afb99" />
 <hr>
-Donate bitcoin to MLKBLVD.org on Bitcoin Network for other charity donations, and help people as we see fit.<br>
+Donate bitcoin to MLKBLVD.org on Bitcoin Network for other charity donations, and help to people as we see fit.<br>
 <img width="234" height="234" alt="btc" src="https://github.com/user-attachments/assets/558bbc82-68f3-4923-9183-be4b3e175ccd" />
 <hr>
 <a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><hr>
