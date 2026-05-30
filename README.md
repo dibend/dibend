@@ -1,4 +1,4 @@
-Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Beautiful Wife Imonie's Charity<br>
+Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Beautiful Wife Imonie's Charity that I manage.<br>
 # [MLKBLVD.org](https://MLKBLVD.org)<br>
 Donate USDC to MLKBVD.org USDC on Solana PoS to earn interest for other charity donations, and help people as we see fit.<br>
 <img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/78e766d8-854d-438e-8aab-df3a514afb99" />
