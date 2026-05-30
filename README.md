@@ -255,6 +255,12 @@ The GNU General Public License does not permit incorporating your program into p
 
 <hr>
 <a href="https://linkedin.com/in/daviddibenedetto"><img width="1352" height="784" alt="linkedin-compressed" src="https://github.com/user-attachments/assets/3ab8d0e3-a2ba-486d-af7f-1b9f516bea9e" /></a>
+<hr>
+Free Therapy Button Below<br>
+<a href="https://www.youtube.com/@MoreReneRebe"><img width="512" height="512" alt="t2" src="https://github.com/user-attachments/assets/24b64c7b-9364-4d03-afe0-e0a49525eb9e" /></a>
+<hr>
+
+
 
 
 
