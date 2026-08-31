@@ -1,19 +1,5 @@
-Donate USDC on PoS Solana, Bitcoins, or Satoshis to my Beautiful Wife Imonie's Charity that I manage.<br>
-# [MLKBLVD.org](https://MLKBLVD.org)<br>
-Donate USDC to MLKBVD.org USDC on Solana PoS to earn interest for other charity donations, and help to people as we see fit.<br>
-<img width="234" height="234" alt="usdc" src="https://github.com/user-attachments/assets/78e766d8-854d-438e-8aab-df3a514afb99" />
-<hr>
-Donate bitcoin to MLKBLVD.org on Bitcoin Network for other charity donations, and help to people as we see fit.<br>
-<img width="234" height="234" alt="btc" src="https://github.com/user-attachments/assets/558bbc82-68f3-4923-9183-be4b3e175ccd" />
-<hr>
-<a href="https://www.youtube.com/watch?v=JpQGoI4CoEE&list=PL0pL2V3HwrDH6nu_KmyLvmfW5h78W9YwX&index=1" target="_blank">My Git Theme Sounds Must Listen on Loop While Read (Right Click All Links Open in New Tab)!</a><hr>
-<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="515" height="216" alt="image" src="https://github.com/user-attachments/assets/ba1b7534-97f6-4e57-b773-8bf177e8a731" /></a>
-<hr>
-<a href="https://www.github.com/sponsors/dibend" target="_blank"><img width="1646" height="956" alt="image" src="https://github.com/user-attachments/assets/9a4c50d1-ee32-4fb8-a02f-3d20aba8ede8" /></a><hr>
-<a href="https://www.facebook.com/profile.php?id=61569723137755" target="_blank">Meta is bad at social media moderation, uses too many A.I. failed dunks.</a>
-<hr>
+<h1>⚠️WARNING⚠️</h1>
 Use at your own risk.
-<hr>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
 
