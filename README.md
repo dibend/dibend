@@ -6,6 +6,9 @@ Use at your own risk.
 
 Feel free to read this software! Only run if you understand every bit.
 
+This might happen if not.
+<img src="https://github.com/dibend/dibend/blob/main/godzilla-against-mechagodzilla-GIF.gif?raw=true" alt="godzilla-against-mechagodzilla-GIF.gif"/><img width="500" height="224" alt="image" src="https://github.com/user-attachments/assets/99261246-931a-473f-9dec-04fefe087229" />
+
 Feel free to run your own tests and open issues but use secure docker container, or secure virtual machine.
 
 Do your own research.
