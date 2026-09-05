@@ -1,4 +1,5 @@
-<h1>⚠️WARNING⚠️</h1>
+<h1><a href="https://github.com/sponsors/dibend">⚠️WARNING⚠️</h1>
+<h2>https://github.com/sponsors/dibend</h2></a>
 Use at your own risk.
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
