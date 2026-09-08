@@ -20,7 +20,9 @@ Do your own research.
 Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
 <hr>
 Feel free to fork my repos and fix my errors. Please hard fork and star. Please sponsor my work. Click Wookie Like Button to consider.<br>
-<a href="https://github.com/sponsors/dibend"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000079c0822fb3b5b07c38408762&amp;ts=496907&amp;p=fs&amp;cid=1&amp;sig=5d97e3996380f1372b6236d3b6cc188830b92222c6a9b6a3bc2e017f6f49e32b&amp;v=0" alt="Generated image: Furry Creature Thumbs-Up Cutout"/><img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2b02e1c3-0c35-47f7-84b6-6a3c0dd411ca" /></a>
+<a href="https://github.com/sponsors/dibend"><img src=/wookie-like.png /
+</a>
+<br><br>
 
 <hr>
 LICENSE below for all my Gits. Ignore invalid licenses in repos.
