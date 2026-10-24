@@ -1,8 +1,15 @@
-<h1 a href="https://MLKBLVD.org">💖💜 https://MLKBLVD.org 💜💖</h1>
+
+<h1 href="https://MLKBLVD.org">💖💜 https://MLKBLVD.org 💜💖</h1>
+For Imonie
 ------------------------------------------
-<h2>⚠️WARNING⚠️</h2>
+Sponsor my Git Please
 <h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a></h3>
-Use at your own risk.
+Please sponsor my git
+++++++++++++++++++++++++++++++++++++++++++
+end introduction
+<h2>⚠️ WARNING - USE CAUTION - distribute as you see fit. ⚠️</h2>
+
+Use at your own risk. Secure network environment should be used. Oracle VirtualBox VM is free to run virtual machines to try things out. 
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank">Proof that Yoda taught Wookies to be Jedi</a><br>
 <a href="https://www.youtube.com/watch?v=0LOLduuy_Wk" target="_blank"><img width="270" height="360" alt="image" src="https://github.com/user-attachments/assets/f72ee156-1427-49d9-b5b6-b7fe388cae2a" /></a>
 
