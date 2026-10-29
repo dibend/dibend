@@ -4,7 +4,7 @@ For Imonie
 ------------------------------------------
 Sponsor my Git Please
 <h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a></h3>
-Please sponsor my git TO <div style="color: Orange>GET FEATURED
+Please sponsor my git TO <div style="color: Orange>GET FEATURED</a>
 ++++++++++++++++++++++++++++++++++++++++++
 end introduction
 <h2>⚠️ WARNING - USE CAUTION - distribute as you see fit. ⚠️</h2>
