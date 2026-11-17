@@ -1,5 +1,4 @@
-<h1 href="https://MLKBLVD.org">💖💜 https://MLKBLVD.org 💜💖</h1>
-For Im
+<h1 href="https://MLKBLVD.org">https://MLKBLVD.org</h1> - Seeking Volunteer Lawyer to make Official. Site in referral mode to other reputable charities.
 ------------------------------------------
 Sponsor my Git Please
 <h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a></h3>
