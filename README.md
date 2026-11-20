@@ -1,7 +1,8 @@
 <h1 href="https://MLKBLVD.org">https://MLKBLVD.org</h1> - Seeking Volunteer Lawyer to make Official. Site in referral mode to other reputable charities.
 ------------------------------------------
-Sponsor my Git Please
-<h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a></h3>
+<h2>Sponsor my Git</h2>
+<h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a>
+</h3>
 Please sponsor my git to GET FEATURED on my account!
 ++++++++++++++++++++++++++++++++++++++++++
 end introduction
@@ -27,7 +28,7 @@ Do your own research.
 Real LICENSE for all my software - https://www.gnu.org/licenses/gpl-3.0.en.html
 <hr>
 Feel free to fork my repos and fix my errors. Please hard fork and star. Please sponsor my work. Click Wookie Like Button to consider.<br>
-<a href="https://github.com/sponsors/dibend"><img src=/wookie-like.png /
+<a href="https://github.com/sponsors/dibend"><img src=/wookie-like.png
 </a>
 <br><br>
 
