@@ -1,5 +1,6 @@
 <h1 href="https://MLKBLVD.org">https://MLKBLVD.org</h1> - Seeking Volunteer Lawyer to make Official. Site in referral mode to other reputable charities.
-------------------------------------------
+----------------------------------------------------------------------------------------
+<hr>
 <h2>Sponsor my Git</h2>
 <h3><a href="https://github.com/sponsors/dibend">https://github.com/sponsors/dibend</a>
 </h3>
